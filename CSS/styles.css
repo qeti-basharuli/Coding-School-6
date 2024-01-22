@@ -1,0 +1,87 @@
+.wallpaper-container {
+    position: relative;
+    width: 100%;
+}
+.wallpaper {
+    width: 100%;
+}
+.cloud1 {
+    position: absolute;
+    left: 37%;
+    top: 26%;
+    width: 35%;
+    animation: cloud1 20s linear infinite alternate;
+}
+.branch {
+    position: absolute;
+    right: 0%;
+    top: 25%;
+    width: 30%;
+}
+.stars1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 50%;
+}
+.stars2 {
+    position: absolute;
+    top: 0;
+    left: 30%;
+    height: 50%;
+}
+.stars3 {
+    position: absolute;
+    top: 0;
+    left: 60%;
+    height: 50%;
+}
+.swan {
+    position: absolute;
+    right: 0;
+    bottom: 10%;
+    height: 20%;
+    animation: swanmove 50s linear infinite alternate 1s;
+}
+.cherry1 {
+    position: absolute;
+    right: 0;
+    top: 30%;
+    width: 30%;
+    animation: cherry1 5s infinite linear alternate;
+}
+.cherry4 {
+    position: absolute;
+    right: 30%;
+    top: 30%;
+    width: 30%;
+    animation: cherry1 5s infinite linear alternate;
+}
+.cherry3 {
+    position: absolute;
+    right: 60%;
+    top: 30%;
+    width: 30%;
+    animation: cherry1 5s infinite linear alternate;
+}
+.cherry5 {
+    position: absolute;
+    right: 90%;
+    top: 30%;
+    width: 30%;
+    animation: cherry1 5s infinite linear alternate;
+}
+.cherry2 {
+    position: absolute;
+    width: 15%;
+    top: 16%;
+    right: 0;
+    animation: cherry1 5s infinite linear alternate;
+}
+.cloud2 {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    width: 20%;
+    animation: cloud2 50s linear infinite alternate ;
+}

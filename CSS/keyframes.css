@@ -1,0 +1,20 @@
+@keyframes cloud1 {
+    0% {transform: translate(0,0);}
+    100% {transform: translate(30px, 20px);}
+}
+
+@keyframes swanmove {
+    0% {transform: translateX(0);}
+    100% {transform: translateX(-1800px);}
+}
+
+@keyframes cherry1 {
+    0% {transform: translate(0,0);}
+    100% {transform: translate(-50%, 50%);}
+}
+
+@keyframes cloud2 {
+    0% {transform: translate(0,0);}
+    100% {transform: translate(-1388px, 10px);}
+}
+
